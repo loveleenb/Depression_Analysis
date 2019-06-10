@@ -1,6 +1,6 @@
 # Depression_Analysis
 
-UCB Bootcamp Data Analytics 
+Data Analytics 
 Project Proposal:
 
 A deep dive into understanding the relationship between the measure of heart rate variability and its affect on your level of depression.
